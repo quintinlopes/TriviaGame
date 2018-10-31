@@ -1,0 +1,42 @@
+h1, .jumbotron {
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	color: #fff;
+}
+
+.jumbotron {
+	background-image: url("../../assets/images/pink-dust.jpg");
+}
+
+body {
+    background-image: url("../../assets/images/dust_scratches.jpg");
+	font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+
+.btn { 
+  color: #ffffff; 
+  background-color: rgb(204, 179, 77); 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn:hover, 
+.btn:focus, 
+.btn:active, 
+.btn.active, 
+.open .dropdown-toggle.btn { 
+  color: #ffffff; 
+  background-color: #000000; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn:active, 
+.btn.active, 
+.open .dropdown-toggle.btn { 
+  background-image: none; 
+} 
+ 
+.btn .badge { 
+  color: rgb(204, 179, 77); 
+  background-color: #ffffff; 
+}
